@@ -4,4 +4,4 @@ env/
 
 # images
 images/
-images.txt
+image*.txt
